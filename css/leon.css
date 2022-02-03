@@ -457,5 +457,21 @@ width: 100%;
     }
     
     /*End Contact*/
+    /*Start Footer*/
+    .footer{
+        background-color: var(--secondary-color);
+        color: white;
+        padding:30px 10px;
+        text-align: center;
+        font-size: 18px;
+
+    }
+    .footer span {
+        font-weight: bold;
+        color: var(--main-color)
+    }
+    /*End Footer*/
+
+
 
 
